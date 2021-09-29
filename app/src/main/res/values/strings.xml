@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">cpdaily</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_name">USER_NAME</string>
+    <string name="shp_num">NUM</string>
+    <string name="shp_reason">REASON</string>
+    <string name="shp_name">SETTING</string>
+    <string name="shp_local">LOCAL</string>
+    <string name="shp_fdy">FDY</string>
+    <string name="Fuck">私改源码后果自负</string>
+    <string name="logs">更新日志：\n
+        V1.1:修复vivo，华为手机显示问题\n
+        V1.2:支持修改审批时间\n
+        V1.3:向下兼容安卓5版本\n
+        V1.4:添加自动设置功能\n
+        v1.52:增加自动保存功能\n
+        v1.6:增加返回功能\n
+        v1.7:增加沉浸式状态栏\n
+        v2.2:增加动态时间\n
+        v2.3:新增反馈\n
+        \n\n
+        注意：请将系统字体改为默认字体，大小自行调试
+        \n\n
+        本软件仅供学习参考使用，出事本人概不负责
+        \n 本软件免费并且完全开源，禁止商业行为。否则后果自负！！\n
+        \n\n\n
+        觉得写的不错请喊一声大佬牛逼！！！！\n</string>
+</resources>
